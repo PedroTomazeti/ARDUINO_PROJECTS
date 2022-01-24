@@ -1,0 +1,8 @@
+﻿Nome,Quantidade,Componente
+"L1",1," Lâmpada"
+"U1",1," Arduino Uno R3"
+"S1",1," Botão"
+"R2",1,"10 kΩ Resistor"
+"T1",1," Transistor NPN (BJT)"
+"BAT2",1," Bateria 9V"
+"R1",1,"1 kΩ Resistor"
